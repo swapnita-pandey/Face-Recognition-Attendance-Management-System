@@ -1,7 +1,5 @@
 # Face-Recognition-Attendance-management-System
 
-Made by using python face_recognition library which uses firebase realtime-database for saving student information and attendance, and firebase storage for saving dataset images.
-
 This project was developed using Python and leveraged the face_recognition library for facial recognition capabilities. The primary goal of this project was to create an efficient and user-friendly system for managing attendance records using facial recognition technology.
 
 Key features of the project included:
