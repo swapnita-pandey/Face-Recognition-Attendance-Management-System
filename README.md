@@ -11,6 +11,7 @@ Attendance Management: The system could capture and process images from a camera
 Firebase Integration: Firebase, a popular mobile and web application development platform, was utilized for two main purposes:
 
 Real-time Database: Firebase Realtime Database was used to store student information and attendance records. This allowed for easy and instant updates to attendance data.
+
 Firebase Storage: Firebase Storage was employed to securely store the dataset images used for facial recognition training.
 User-Friendly Interface: The project includes a user-friendly interface, making it easy to manage attendance records and view individual attendance histories.
 
